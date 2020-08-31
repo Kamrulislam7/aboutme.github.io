@@ -19,7 +19,8 @@
     text-align: center; /* set the text alignment here */
    }
 
-  footer {
+  footer { 
+    background:pink ;
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
